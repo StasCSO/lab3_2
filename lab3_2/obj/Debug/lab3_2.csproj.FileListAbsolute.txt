@@ -1,0 +1,6 @@
+C:\Users\stas\Desktop\labs c#\lab3_2\lab3_2\bin\Debug\lab3_2.exe.config
+C:\Users\stas\Desktop\labs c#\lab3_2\lab3_2\bin\Debug\lab3_2.exe
+C:\Users\stas\Desktop\labs c#\lab3_2\lab3_2\bin\Debug\lab3_2.pdb
+C:\Users\stas\Desktop\labs c#\lab3_2\lab3_2\obj\Debug\lab3_2.csprojResolveAssemblyReference.cache
+C:\Users\stas\Desktop\labs c#\lab3_2\lab3_2\obj\Debug\lab3_2.exe
+C:\Users\stas\Desktop\labs c#\lab3_2\lab3_2\obj\Debug\lab3_2.pdb
